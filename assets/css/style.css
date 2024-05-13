@@ -44,8 +44,6 @@ body {
 }
 
 .card-container {
-    display: flex;
-    flex-direction: column;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     max-height: 465px;
